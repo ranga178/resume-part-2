@@ -1,0 +1,11 @@
+header{
+    cursor:pointer; 
+    
+}
+table {
+    margin: 0;
+    width: 100%;
+    table-layout: fixed;
+}
+
+
